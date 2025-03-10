@@ -2,7 +2,10 @@
 
 A modern, responsive web application that provides detailed nutrition information and health insights for food products. Built with React, TypeScript, and Tailwind CSS, it offers real-time nutritional data through the OpenFoodFacts API.
 
-![The Food Report Banner](https://images.unsplash.com/photo-1490818387583-1baba5e638af?auto=format&fit=crop&q=80&w=1000)
+![The Food Report Banner](https://i.imgur.com/Upehnet.png)
+
+## 🔗 Demo
+https://foodreport.netlify.app/
 
 ## ✨ Features
 
@@ -122,6 +125,16 @@ The health score (0-10) is calculated based on these factors:
 - Sugar content (<10g/100g: +2 points)
 - Fat content (<15g/100g: +2 points)
 - Sodium content (<0.4g/100g: +2 points)
+
+## Screenshots
+
+![Nutella](https://i.imgur.com/ZEFeOKB.png)
+
+![Granola Bar](https://i.imgur.com/JxhLSsR.png)
+
+![Prime](https://i.imgur.com/9iaBzze.png)
+
+![Feastables](https://i.imgur.com/DOPvOZ3.png)
 
 ## 🤝 Contributing
 
