@@ -49,8 +49,8 @@ https://foodreport.netlify.app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/the-food-report.git
-   cd the-food-report
+   git clone https://github.com/AYMAN5029/The-Food-Report.git
+   cd The-Food-Report
    ```
 
 2. Install dependencies:
